@@ -1,0 +1,35 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Santa Tecla",
+				"habitantes": "1,700,000",
+				"altura": "1000 MSNM",
+				"moneda": "US dolar",
+				"cod": "456",
+				"idioma": "Español",
+				"_id": "2",
+				"_nombre": "La Libertad"
+			},
+			{
+				"cabecera": "Cojutepeque",
+				"habitantes": "50,000",
+				"altura": "1500 MSNM",
+				"moneda": "US dolar",
+				"cod": "455",
+				"idioma": "Español",
+				"extension": "31.43 km2",
+				"_id": "3",
+				"_nombre": "Cuscatlan"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

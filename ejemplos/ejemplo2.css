@@ -1,0 +1,16 @@
+/* RR20044 */
+pais {
+    background-color: rgb(100, 44, 44);
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+departamento {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,25 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Manuel",
+				"apellido": "Rico",
+				"direccion": "Av L , 49",
+				"tel": {
+					"_tipo": "personal",
+					"__text": "54321478"
+				},
+				"email": "rr20044@ues.edu.sv",
+				"_id": "2",
+				"_fechaingreso": "5/2/2022"
+			}
+		]
+	}
+}
